@@ -1,0 +1,3 @@
+com\zhys\dispatch\dispatch_common\i18n\LocalMessageSource.class
+com\zhys\dispatch\dispatch_common\constant\RESULTFLAGS.class
+com\zhys\dispatch\dispatch_common\constant\ERRORCODE.class

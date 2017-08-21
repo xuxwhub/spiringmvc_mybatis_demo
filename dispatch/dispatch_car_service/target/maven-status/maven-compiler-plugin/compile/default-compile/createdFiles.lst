@@ -1,0 +1,3 @@
+com\zhys\dispatch\service\CarServiceImpl.class
+com\zhys\dispatch\repository\MyBatisRepository.class
+com\zhys\dispatch\repository\CarMapper.class
